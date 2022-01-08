@@ -1,2 +1,2 @@
-# ITsyutyukouza
+# IT
 IT集中講座（基本編）
